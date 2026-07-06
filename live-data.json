@@ -1,0 +1,220 @@
+{
+  "source": "baidu_account_homepage",
+  "updatedAt": "2026-07-02 15:18",
+  "scope": "今日账户首页实时读取",
+  "totals": {
+    "todaySpend": 3944.46,
+    "balance": 50218.79,
+    "impressions": 3216,
+    "clicks": 90,
+    "conversions": 2,
+    "avgCpc": 43.83,
+    "conversionCost": 1972.23
+  },
+  "accounts": [
+    {
+      "id": "32174643",
+      "name": "tj全包圆2",
+      "role": "行业通用-资金共享",
+      "balance": 50218.79,
+      "searchBudget": 4000,
+      "searchSpend": 1495.29,
+      "searchUsage": 37.38,
+      "infoBudget": 0,
+      "infoSpend": 0,
+      "impressions": 2084,
+      "clicks": 52,
+      "conversions": 1,
+      "cpc": 28.76,
+      "cpa": 1495.29,
+      "note": "今日已有 1 个百度转化，继续核 CRM 有效线索"
+    },
+    {
+      "id": "33334591",
+      "name": "tj全包圆家居1",
+      "role": "品牌词-资金共享",
+      "balance": 50218.79,
+      "searchBudget": 4000,
+      "searchSpend": 2449.17,
+      "searchUsage": 61.23,
+      "infoBudget": 3000,
+      "infoSpend": 0,
+      "impressions": 1132,
+      "clicks": 38,
+      "conversions": 1,
+      "cpc": 64.45,
+      "cpa": 2449.17,
+      "note": "今日消费更快，CPC 更高，优先核搜索词和有效线索"
+    }
+  ],
+  "searchTerms": {
+    "records7d": 1063,
+    "clicks7d": 1246,
+    "spend7d": 52800.05
+  },
+  "funnel": {
+    "impressions": 3216,
+    "clicks": 90,
+    "targetConversions": 2,
+    "deepConversions": 0,
+    "crmValidLeads": null
+  },
+  "trackers": {
+    "focus": {
+      "note": "重点搜索词是你希望持续拿量的词。刷新器会尝试从百度搜索词报表读取曝光、点击、消费、CPC、转化。",
+      "rows": [
+        {
+          "term": "装修公司哪家好",
+          "type": "强意图",
+          "impression": null,
+          "click": null,
+          "spend": null,
+          "cpc": null,
+          "conversion": null,
+          "verdict": "优先观察转化成本"
+        },
+        {
+          "term": "天津装修公司",
+          "type": "本地强意图",
+          "impression": null,
+          "click": null,
+          "spend": null,
+          "cpc": null,
+          "conversion": null,
+          "verdict": "核心词，重点保留"
+        },
+        {
+          "term": "老房翻新",
+          "type": "需求明确",
+          "impression": null,
+          "click": null,
+          "spend": null,
+          "cpc": null,
+          "conversion": null,
+          "verdict": "适合重点追踪"
+        },
+        {
+          "term": "装修报价",
+          "type": "价格意图",
+          "impression": null,
+          "click": null,
+          "spend": null,
+          "cpc": null,
+          "conversion": null,
+          "verdict": "看线索质量"
+        },
+        {
+          "term": "全包装修",
+          "type": "产品相关",
+          "impression": null,
+          "click": null,
+          "spend": null,
+          "cpc": null,
+          "conversion": null,
+          "verdict": "看是否有效线索"
+        }
+      ]
+    },
+    "risk": {
+      "note": "风险词不一定马上否，先看是否高消费、低转化、CRM 无效。连续浪费再处理。",
+      "rows": [
+        {
+          "term": "装修效果图",
+          "type": "看图意图",
+          "impression": null,
+          "click": null,
+          "spend": null,
+          "cpc": null,
+          "conversion": null,
+          "verdict": "花多无线索再收窄"
+        },
+        {
+          "term": "法式风格装修效果图",
+          "type": "内容/图片",
+          "impression": null,
+          "click": null,
+          "spend": null,
+          "cpc": null,
+          "conversion": null,
+          "verdict": "容易只看图"
+        },
+        {
+          "term": "全屋定制排名",
+          "type": "业务偏移",
+          "impression": null,
+          "click": null,
+          "spend": null,
+          "cpc": null,
+          "conversion": null,
+          "verdict": "谨慎观察"
+        },
+        {
+          "term": "竞品公司地址",
+          "type": "竞品/地址",
+          "impression": null,
+          "click": null,
+          "spend": null,
+          "cpc": null,
+          "conversion": null,
+          "verdict": "无有效线索则否"
+        }
+      ]
+    },
+    "invalid": {
+      "note": "无效词是大概率偏离家装获客的词。出现一次先记录，连续花钱且无效就优先处理。",
+      "rows": [
+        {
+          "term": "招聘",
+          "type": "招聘",
+          "impression": null,
+          "click": null,
+          "spend": null,
+          "cpc": null,
+          "conversion": null,
+          "verdict": "优先否词"
+        },
+        {
+          "term": "加盟",
+          "type": "加盟",
+          "impression": null,
+          "click": null,
+          "spend": null,
+          "cpc": null,
+          "conversion": null,
+          "verdict": "优先否词"
+        },
+        {
+          "term": "材料批发",
+          "type": "材料/批发",
+          "impression": null,
+          "click": null,
+          "spend": null,
+          "cpc": null,
+          "conversion": null,
+          "verdict": "偏离获客"
+        },
+        {
+          "term": "维修",
+          "type": "维修",
+          "impression": null,
+          "click": null,
+          "spend": null,
+          "cpc": null,
+          "conversion": null,
+          "verdict": "非装修主需求"
+        },
+        {
+          "term": "外地装修公司",
+          "type": "地域偏移",
+          "impression": null,
+          "click": null,
+          "spend": null,
+          "cpc": null,
+          "conversion": null,
+          "verdict": "核地域后处理"
+        }
+      ]
+    }
+  },
+  "trackerStatus": "等待刷新器读取百度搜索词报表。"
+}
